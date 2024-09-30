@@ -1,0 +1,6 @@
+@SmartManagerAPI_HostAddress = http://localhost:5014
+
+GET {{SmartManagerAPI_HostAddress}}/SmartManagerAPI/
+Accept: application/json
+
+###
